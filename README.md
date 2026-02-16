@@ -14,3 +14,5 @@ sudo systemctl start nginx
 echo "Ngnix is running."
 
 echo "Ngnix is installed and running"
+
+Happy Learning!
