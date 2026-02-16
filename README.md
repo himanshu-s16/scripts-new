@@ -12,3 +12,5 @@ sudo systemctl status nginx
 sudo systemctl start nginx
 
 echo "Ngnix is running."
+
+echo "Ngnix is installed and running"
